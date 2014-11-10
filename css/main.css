@@ -1,0 +1,35 @@
+* {
+	font-family: Garamond;
+}
+#logo {
+	width: 50%;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	margin-top: 3%;
+}
+.quiz {
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	height: 500px;
+}
+#coffee {
+	position: fixed;
+	margin-left: 28%;
+	margin-top: -19%;
+	display: inline-block;
+}
+#questionAnswer {
+	position: relative;
+	margin-top: 5%;
+	font-size: 24px;
+	line-height: 2;
+}
+#submit {
+	font-family: Garamond;
+	font-size: 24px;
+	margin-top: 10px;
+}
